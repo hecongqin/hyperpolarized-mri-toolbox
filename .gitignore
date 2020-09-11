@@ -1,2 +1,36 @@
-.ipynb_checkpoints
-*.asv
+
+# OSX / *nix default autosave extension
+*.m~
+
+dfb30c64093a	
+# Compiled MEX binaries (all platforms)
+*.mex*
+f78c09ffd224	
+
+33670c672dd6	
+# Packaged app and toolbox files 
+*.mlappinstall 
+*.mltbx 
+  
+# Generated helpsearch folders 
+helpsearch*/ 
+
+# Simulink code generation folders
+f78c09ffd224	
+slprj/
+9e0c53270ade	
+sccprj/
+98a3ab7719ed	
+
+767c1f8a1d2b	
+# Matlab code generation folders
+codegen/
+
+e73e4fd575fd	
+# Simulink autosave extension
+1776050f705e	
+*.autosave
+33670c672dd6	
+
+# Octave session info
+octave-workspace
